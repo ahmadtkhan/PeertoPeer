@@ -28,5 +28,5 @@ This project implements a Peer-to-Peer (P2P) content sharing system using UDP an
 - Use the provided `Makefile` to compile the project:
   ```bash
   make
-./Index_server <port>
-./Peer_client <index_server_ip> <index_server_port>
+   ./Index_server <port>
+   ./Peer_client <index_server_ip> <index_server_port>
